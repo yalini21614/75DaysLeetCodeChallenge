@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yalini21614/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/yalini21614/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/yalini21614/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0845-longest-mountain-in-array](https://github.com/yalini21614/75DaysLeetCodeChallenge/tree/master/0845-longest-mountain-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yalini21614/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yalini21614/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/yalini21614/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0845-longest-mountain-in-array](https://github.com/yalini21614/75DaysLeetCodeChallenge/tree/master/0845-longest-mountain-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/yalini21614/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yalini21614/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0845-longest-mountain-in-array](https://github.com/yalini21614/75DaysLeetCodeChallenge/tree/master/0845-longest-mountain-in-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/yalini21614/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/yalini21614/75DaysLeetCodeChallenge/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
